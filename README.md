@@ -23,6 +23,7 @@ Options for the customer portal:
 
 ### Seller Portal
 Options for the seller portal:
+
 ![sellers](./docs/seller-portal.png)
 
 ## Example use
